@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanh Tuyen!</h1>
 <h3 align="center">Be yourself, don’t be anyone else!</h3>
-<p align="left">About me</p>
+
+- **About me**
 - 🎓 I'm a student at **FPT University - Quy Nhon AI Campus**
 
 - 🌱 I’m currently learning **about Frontend developer**
